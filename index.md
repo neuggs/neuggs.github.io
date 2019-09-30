@@ -17,6 +17,7 @@
 - [Visualizations](https://neuggs.github.io/Visualizations/)
 - [Strava Data Analysis in R](https://neuggs.github.io/Strava-Analysis-Using-R/)
 - [Strava Data Analysis in Python](https://neuggs.github.io/Strava-Python-Example/)
+
 ---
 
 
