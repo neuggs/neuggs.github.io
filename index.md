@@ -2,28 +2,21 @@
 
 ---
 
-### Category Name 1 
+### (More) Polished Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Agency Data](https://neuggs.github.io/Agency-Data/)
+<img src="images/agency_data.gif?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Not-so-polished Projects
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Working With Luigi Workflows](https://neuggs.github.io/Working-With-Luigi-Workflows/)
+- [Node.js Test - Weight Converter](https://neuggs.github.io/Weight-Converter-Test/)
+- [PYthon Multiprocessing](https://neuggs.github.io/Python-Multiprocessing/)
+- [Community Survey - Some R Code](https://neuggs.github.io/Community-Survey-Analysis/)
+- [Real Estate Data Regression - More R](https://neuggs.github.io/Real-Estate-Regression/)
+- [Visualizations](https://neuggs.github.io/Visualizations/)
+- [Strava Data Analysis in R](https://neuggs.github.io/Strava-Analysis-Using-R/)
+- [Strava Data Analysis in Python](https://neuggs.github.io/Strava-Python-Example/)
 
 ---
 
