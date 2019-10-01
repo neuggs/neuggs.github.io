@@ -10,7 +10,7 @@
 <br/>
 [Text Classifier](https://neuggs.github.io/Text-Classifier/)
 <br/>
-<img src="images/agency_data.gif?raw=true"/>
+<img src="images/text-classifier.jpg?raw=true"/>
 
 ### Not-so-polished Projects
 
