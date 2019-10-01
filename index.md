@@ -13,7 +13,8 @@
 <img src="images/text-classifier.jpg?raw=true"/>
 <br/>
 [Working With Luigi Workflows](https://neuggs.github.io/Working-With-Luigi-Workflows/)
-<img src="images/luigi.gif?raw=true"/>
+<br/>
+<img src="images/luigi.GIF?raw=true"/>
 <br/>
 
 ### Not-so-polished Projects
