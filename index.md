@@ -11,10 +11,13 @@
 [Text Classifier](https://neuggs.github.io/Text-Classifier/)
 <br/>
 <img src="images/text-classifier.jpg?raw=true"/>
+<br/>
+[Working With Luigi Workflows](https://neuggs.github.io/Working-With-Luigi-Workflows/)
+<img src="images/luigi.gif?raw=true"/>
+<br/>
 
 ### Not-so-polished Projects
 
-- [Working With Luigi Workflows](https://neuggs.github.io/Working-With-Luigi-Workflows/)
 - [Node.js Test - Weight Converter](https://neuggs.github.io/Weight-Converter-Test/)
 - [PYthon Multiprocessing](https://neuggs.github.io/Python-Multiprocessing/)
 - [Community Survey - Some R Code](https://neuggs.github.io/Community-Survey-Analysis/)
