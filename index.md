@@ -5,6 +5,11 @@
 ### (More) Polished Projects
 
 [Agency Data](https://neuggs.github.io/Agency-Data/)
+<br/>
+<img src="images/agency_data.gif?raw=true"/>
+<br/>
+[Text Classifier](https://neuggs.github.io/Text-Classifier/)
+<br/>
 <img src="images/agency_data.gif?raw=true"/>
 
 ### Not-so-polished Projects
